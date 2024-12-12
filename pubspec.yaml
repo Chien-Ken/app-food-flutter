@@ -1,0 +1,81 @@
+name: app_food
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  shared_preferences: 2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/json/category.json
+    - assets/images/food-fun.jpg
+    - assets/images/bun-dau.jpg 
+    - assets/images/category/Dairy.jpg
+    - assets/images/category/fruits.jpg
+    - assets/images/category/meat.jpg
+    - assets/images/category/snacks.jpg
+    - assets/images/category/Vegetables.jpg
+    - assets/json/product.json
+    - assets/images/meal/good-dairy.jpg
+    - assets/images/meal/good-fruits.jpg
+    - assets/images/meal/good-meat.jpg
+    - assets/images/meal/good-snacks.jpg
+    - assets/images/meal/good-vegetables.jpg
+    - assets/images/meal/dogMeat.jpg
+    - assets/images/meal/apple.jpg
+    - assets/images/meal/bakery1Fun.jpg
+    - assets/images/meal/Bakery2Fun.jpg
+    - assets/images/meal/carrot.jpg
+    - assets/images/meal/chicken.jpg
+    - assets/images/meal/dairy1Fun.jpg
+    - assets/images/meal/dairy2Fun.jpg
+    - assets/images/meal/dogMeat.jpg
+    - assets/images/meal/frozen1.jpg
+    - assets/images/meal/frozen2.jpg
+    - assets/images/meal/giaViUop.jpg
+    - assets/images/meal/khoai.jpg
+    - assets/images/meal/seaFood.jpg
+    - assets/images/meal/seaFood2.jpg
+    - assets/images/meal/snack1.jpg
+    - assets/images/meal/snack2.jpg
+    - assets/images/meal/toi.jpg
+    - assets/images/meal/watermelon.jpg
+    - assets/images/meal/cocacola.png
+    - assets/images/meal/pepsi.jpg
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
